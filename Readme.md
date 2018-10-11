@@ -27,4 +27,4 @@ Or run from a docker container passing the environment variables
 
 Or be a more secure person and utilize a `.env` file
 
-     docker run -it --rm --env-file .env jsilvaigor/restart_service stackName
+     docker run -it --rm --env-file .env jsilvaigor/restart_services stackName
